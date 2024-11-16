@@ -1,0 +1,12 @@
+atmosphere
+hydrosphere
+lithosphere
+oxygen
+oxide
+carbon dioxide
+hydrogen
+core
+crust
+mantle
+longitude
+latitude
